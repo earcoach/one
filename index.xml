@@ -10,4 +10,12 @@
       <note number="1" values="1"/>
     </notes>
   </exercise>
+  <exercise number="2">
+    <scale>major</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1"/>
+    </notes>
+  </exercise>
 </level>
